@@ -1,0 +1,64 @@
+{
+    "success": true,
+    "message": "ok",
+    "data": [
+        {
+            "url": "./img/one.jpg",
+            "title": "研海领航",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=8",
+            "id": 1
+        },
+        
+        
+        {
+            "url": "./img/two.jpg",
+            "title": "研途人物",
+            "link": "http://mp.weixin.qq.com/mp/homepage?__biz=MzA4MDQ4NzUwMA==&hid=4&sn=eddce2a29dea2be47aa9778d03c6c234#wechat_redirect",
+            "id": 1
+        },
+
+        {
+            "url": "./img/three.jpg",
+            "title": "深研博览",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=9",
+            "id": 1
+        },
+        {
+            "url": "./img/for.jpg",
+            "title": "研情快报",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=10",
+            "id": 1
+        },
+        {
+            "url": "./img/logo.png",
+            "title": "",
+            "link": "#",
+            "id": 0
+        },
+        {
+            "url": "./img/five.jpg",
+            "title": "博睿有约",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=11",
+            "id": 1
+        },
+        {
+            "url": "./img/six.jpg",
+            "title": "悦分享",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=25",
+            "id": 1
+        },
+        {
+            "url": "./img/seven.jpg",
+            "title": "空间星语",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=27",
+            "id": 1
+        },
+        {
+            "url": "./img/eight.jpg",
+            "title": "小编推送",
+            "link": "http://weiyan.hfutonline.net/index/module?cid=28",
+            "id": 1
+        }
+        
+    ]
+}

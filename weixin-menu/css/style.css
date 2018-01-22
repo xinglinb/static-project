@@ -1,0 +1,82 @@
+/* style.css */
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  color: #fff;
+  font-family: HYShangWeiShouShuW Regular,Droidsansfallback,Droid Sans,Heiti SC,Helvetica,HelveticaNeue;
+}
+html{
+  width: 100%;
+}
+body{
+  background-color: #3c373d;
+  width: 100%;
+}
+.div-header {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.div-header img {
+  width: 100%;
+}
+.div-body{
+  width: 88%;
+  height: auto;
+  margin-top: -25px;
+  margin: 0 auto;
+}
+
+.div-body .module {
+  margin-top: 10%;
+  float: left;
+  width: 26%;
+  margin-right: 11%;
+  
+}
+
+.div-body .div-m{
+  background-color:#1ba0e1;
+}
+
+.div-body .l-col {
+  float: right;
+  margin-right: 0px;
+}
+
+.module img{
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-top: 13%;
+}
+
+.module p {
+  text-align: center;
+  line-height: 165%;
+  font-size: 40px;
+}
+
+.clear {
+  clear: both;
+}
+
+.foot .copyR{
+  margin-top: 80px;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.logo {
+  background-color: rgba(255,255,255, 0)
+}
+
+.logo img {
+  /* opacity:0; */
+
+  margin-left: 10%;
+  margin-top: 10%;
+  width: 80%;
+  height: 80%;
+}
